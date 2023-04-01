@@ -1,0 +1,20 @@
+**- Comandos Básicos -**
+
+Dir - Listar 
+CD - Entrar em uma pasta 
+CD .. - Sair de uma pasta
+CLS ou Clear - Limpar tela 
+DEL + Nome da pasta = Deletar aquivos 
+RMDIR = Deleta pastas/ Repositórios 
+PWD = Caminho da pasta 
+GIT INIT = Iniciar o Git 
+GIT ADD = Iniciar o versionamento 
+GIT COMMIT = Criar um Commit 
+LS -A = Visualizar pastas ocultas 
+GIT STATUS = Informar o staus dos processos
+
+
+
+**- Atalhos Teclado -** 
+ctrl + L = Limpar a tela 
+tab = completa palavras 
